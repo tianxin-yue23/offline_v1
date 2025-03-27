@@ -1,7 +1,7 @@
 set hive.exec.mode.local.auto=true;
 use dev_realtime_v1_tianxin_yue;
 --用户信息表ods_user_info_inc、用户地址表ods_user_address_inc、sdfsdfsdfsdfsd
--- 字典表base_dic、小区表base_complex、地区表base_region_info、机构表base_organ
+-- 字典表base_dic、小区表base_complex、地区表base_region_info、机构表base_organhjjjj
 drop table if exists ods_order_info_tms01;
 create table if not exists ods_order_info_tms01
 (
